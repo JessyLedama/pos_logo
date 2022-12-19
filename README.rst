@@ -1,4 +1,4 @@
-Point of Sale Logo v16
+Point of Sale Logo v15
 ======================
 This module helps you to set a logo for every point of sale. This will help you to
 identify the point of sale easily. You can also see this logo in pos screen and pos receipt
